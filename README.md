@@ -1,7 +1,7 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is Taylor Francisco (She/Her) and I am an aspiring neuroscientist 🧠. 
+My name is Taylor Francisco and I am an aspiring neuroscientist 🧠. 
 
 I have been studing trauma and memory in Denise Cai's lab at Icahn School of Medicine at Mount Sinai since 2019. I obtained a Bachelor’s degree in Neuroscience and Behavior in Fall 2021 and am currently pursuing a Master’s degree in Quantitative Methods in the Social Sciences from Columbia University. 
 
@@ -10,6 +10,7 @@ My passion for neuroscience stems from a desire to understand the biological und
 As an indigenous woman in STEM, I am dedicated to creating opportunities for other underrepresented youth in academia as well as being a force for systemic diversity and equity. When I am not in the lab you can find me walking throughout the city trying all the vegan restaurants or squirrel watching in Central Park. 
 
 
+- ✨ Pronouns: She/Her
 - 💬 Contact me: trf2122@columbia.edu
 - 👉 Follow me through my STEM journey on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 - 🔬 Read about all the research Cai lab does at http://labs.neuroscience.mssm.edu/project/cai-lab/ 
