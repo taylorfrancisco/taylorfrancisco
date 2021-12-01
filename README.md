@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+
+
+- 📫 Contact me: trf2122@columbia.edu
+- 😄 Pronouns: She/Her
 
 
 Follow me through my STEM journey on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
