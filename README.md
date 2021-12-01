@@ -11,7 +11,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/taylor_neuro
 [2]: https://www.linkedin.com/in/taylor-francisco-156253189/
 
 
