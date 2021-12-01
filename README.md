@@ -8,13 +8,18 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+My name is Taylor Francisco (She/Her) and am an aspiring neuroscientist. 
+
+I joined the Cai lab in the fall of 2019. I obtained a Bachelor’s degree in Neuroscience and Behavior in Fall 2021 and am currently pursuing a Master’s degree in Quantitative Methods in the Social Sciences from Columbia University. 
+
+My passion for neuroscience stems from a desire to understand the biological underpinnings of trauma and mental illness to develop empirically-based treatments and allow individuals to achieve a higher quality of life. My long-term goal is not only to increase the scientific understanding of trauma but to also become an advocate for these issues through public education, policy coordination, and patient care by becoming a physician-scientist. 
+
+As an indigenous woman in STEM, I am dedicated to creating opportunities for other underrepresented youth in academia as well as being a force for systemic diversity and equity. When I am not in the lab you can find me walking throughout the city trying all the vegan restaurants or squirrel watching in Central Park. 
 
 
-- 📫 Contact me: trf2122@columbia.edu
-- 😄 Pronouns: She/Her
-
-
-Follow me through my STEM journey on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 💬 Contact me: trf2122@columbia.edu
+- 👉 Follow me through my STEM journey on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
+- 🔬 Read about all that the Cai lab does at http://labs.neuroscience.mssm.edu/project/cai-lab/ 
 
 
 
