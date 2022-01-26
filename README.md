@@ -13,7 +13,7 @@ As an indigenous woman in STEM, I am dedicated to creating opportunities for oth
 - ✨ Pronouns: She/Her
 - 💬 Contact me: trf2122@columbia.edu
 - 👉 Follow me through my STEM journey on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
-- 🔬 Read about all the research Cai lab does at http://labs.neuroscience.mssm.edu/project/cai-lab/ 
+- 🔬 Read about all the research Cai lab does at https://www.denisecailab.com/
 
 
 
