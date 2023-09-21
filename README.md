@@ -3,7 +3,7 @@
 
 My name is Taylor Francisco and I am an aspiring neuroscientist 🧠. 
 
-I have been studing trauma and memory in Denise Cai's lab at Icahn School of Medicine at Mount Sinai since 2019. I obtained a Bachelor’s degree in Neuroscience and Behavior in Fall 2021 and am currently pursuing a Master’s degree in Quantitative Methods in the Social Sciences from Columbia University. 
+I have been studying trauma and memory in Denise Cai's lab at Icahn School of Medicine at Mount Sinai since 2019. I obtained a Bachelor’s degree in Neuroscience and Behavior in Fall 2021 and am currently pursuing a Master’s degree in Quantitative Methods in the Social Sciences from Columbia University. 
 
 My passion for neuroscience stems from a desire to understand the biological underpinnings of trauma and mental illness to develop empirically-based treatments and allow individuals to achieve a higher quality of life. My long-term goal is not only to increase the scientific understanding of trauma but to also become an advocate for these issues through public education, policy coordination, and patient care by becoming a physician-scientist. 
 
