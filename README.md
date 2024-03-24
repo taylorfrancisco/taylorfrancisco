@@ -11,7 +11,7 @@ When I am not researching you can find me walking throughout the city trying all
 
 - ✨ Pronouns: She/Her
 - 💬 Contact me: trf2122@columbia.edu
-- 👉 Follow me through my STEM journey on [![LinkedIn][2.2]][2]
+- 👉 Follow my career on [![LinkedIn][2.2]][2]
 - 🔬 Read my published research found on [Google Scholar ](https://scholar.google.com/citations?hl=en&user=7Kkp8RUAAAAJ)
 - 📖 Read about my experience as a scientist with a disability in my chapter in [Uncharted: How Scientists Navigate Their Own Health, Research, and Experiences of Bias.](https://cup.columbia.edu/book/uncharted/9780231203630)  
 
