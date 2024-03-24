@@ -3,9 +3,9 @@
 
 I am an Indigenous scientist committed to addressing systemic disparities through the intersection of data analysis and public policy. Fueled by a passion for healing trauma, my mission is to leverage my expertise in data science, neuroscience research, and advocacy to drive positive societal change and enhance the well-being of marginalized populations by tackling both structural and legal determinants of health outcomes.
 
-I earned my Bachelor’s degree in Neuroscience and Behavior from Columbia University in Spring 2021, followed by a Master’s degree in Quantitative Methods in the Social Sciences in Spring 2024. My thesis, titled "Representing the Asterisk Nation: A Bayesian Approach to Model Trends in Small Populations," einvestigated the application of Bayesian Inference as a solution to the systematic exclusion of Native Americans in statistical analysis.
+I earned my Bachelor’s degree in Neuroscience and Behavior from Columbia University in Spring 2021, followed by a Master’s degree in Quantitative Methods in the Social Sciences in Spring 2024. My thesis, titled "Representing the Asterisk Nation: A Bayesian Approach to Model Trends in Small Populations," investigated the application of Bayesian Inference as a solution to the systematic exclusion of Native Americans in statistical analyses.
 
-As a woman of color in STEM, I am dedicated to creating opportunities for other underrepresented youth in academia as well as being a force for systemic diversity and equity. 
+As a woman of color in STEM, I am dedicated to creating opportunities for other underrepresented youth in academia as well as being a champion for systemic diversity and equity. 
 
 When I am not researching you can find me walking throughout the city trying all the vegan restaurants 🍜 or squirrel watching in Central Park 🐿️.
 
